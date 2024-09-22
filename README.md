@@ -1,3 +1,4 @@
+ISAAC stream cipher is almost 30 years old, and has never been proven broken, one would expect more mention of it.
 # References
 ## PDF
 [On the pseudo-random generator ISAAC | Jean-Philippe Aumasson](https://eprint.iacr.org/2006/438.pdf)
