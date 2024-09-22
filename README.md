@@ -10,3 +10,7 @@
 [3](https://crypto.stackexchange.com/questions/108103/is-isaac-actually-an-improvement-over-isaac)
 [4](https://www.reddit.com/r/programming/comments/1xl7yc/isaac_a_pseudorandom_number_generator_thats/)
 
+## Miscellaneous
+[1](https://en.wikipedia.org/wiki/ISAAC_(cipher))
+[2](https://burtleburtle.net/bob/rand/isaacafa.html)
+
